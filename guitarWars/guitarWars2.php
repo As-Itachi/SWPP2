@@ -94,6 +94,7 @@ if(isset($_POST['submit'])){
 ?>
 
 <h1>Guitar Wars - Highscore melden</h1>
+<p>Test von GIt</p>
 
 <!-- Ergänzen des from-Tag, damit die Übertragung von Dateien ermöglichen wird -->
 
