@@ -16,8 +16,8 @@
 
             echo "<br>";
 
-            echo "<a link href='/workspace_4BK_23_24/guitarwars/guitarwars2.php'>Zurück zur Highcore-Liste";echo "<br>";
-            echo "<a link href='/workspace_4BK_23_24/guitarwars/index.php'>Zurück zur Index-Liste";echo "<br>";
+            echo "<a link href='/workspace_4BK_23_24_1/SWPP2/guitarwars/guitarwars2.php'>Zurück zur Highcore-Liste";echo "<br>";
+            echo "<a link href='/workspace_4BK_23_24_1/SWPP2/guitarwars/index.php'>Zurück zur Index-Liste";echo "<br>";
 
         }catch(PDOException $e){
             echo "Fehler bei der Bestätigung des Highscores.";
