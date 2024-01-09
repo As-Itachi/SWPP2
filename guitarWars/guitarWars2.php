@@ -69,14 +69,14 @@ if(isset($_POST['submit'])){
 
                         echo "<br>";
 
-                        echo "<a link href='/workspace_4BK_23_24/guitarwars/guitarwars2.php'>Zurück zur Highcore-Liste/a>";echo "<br>";
+                        echo "<a link href='/workspace_4BK_23_24_1/SWPP2/guitarwars/guitarwars2.php'>Zurück zur Highcore-Liste/a>";echo "<br>";
 
-                        echo "<a link href='/workspace_4BK_23_24/guitarwars/index.php'>/a>Zur Eintragsliste";echo "<br>";
+                        echo "<a link href='/workspace_4BK_23_24_1/SWPP2/guitarwars/index.php'>/a>Zur Eintragsliste";echo "<br>";
 
                         echo "<br>";
 
                         //echo "<a link href='/workspace_4BK_23_24/guitarwars/admin.php'>Zur Eintragsliste</a>";
-                        echo "<a href='/workspace_4BK_23_24/guitarwars/login.php'>Adminbereich</a>";
+                        echo "<a href='/workspace_4BK_23_24_1/SWPP2/guitarwars/login.php'>Adminbereich</a>";
 
 
                     }catch(PDOException $e){
