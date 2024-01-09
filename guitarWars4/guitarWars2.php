@@ -118,8 +118,6 @@
 
 <hr>
 
-<p>Test und Test</p>
-
 <!-- Ergänzen des from-Tag, damit die Übertragung von Dateien ermöglichen wird -->
 
 <form enctype="multipart/form-data" method="POST" action="<?php echo $_SERVER['SCRIPT_NAME']; ?>">
