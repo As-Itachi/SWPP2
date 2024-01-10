@@ -33,8 +33,12 @@
         }
 
         echo "Die Session ID lautet " . session_id();
+        echo "<br>";
+        echo "<a href='/workspace_4BK_23_24_1/SWPP2/Uebung_11_7/u_abschluss.php'>Kontaktdaten ausfüllen</a>"
 
     ?>
+
+
 
 </body>
 </html>
