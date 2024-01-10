@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Abschluss</title>
 </head>
 <body>
 
@@ -27,6 +27,8 @@
                 foreach ($_SESSION as $key => $value) { 
                 echo $key . " = " . $value . "<br>";
                 }
+                $_SESSION = array();
+                session_destroy();
   
             }
 
