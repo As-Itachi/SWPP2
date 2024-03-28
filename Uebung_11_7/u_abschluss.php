@@ -41,7 +41,7 @@
         <h1>Honigbestellung</h1>
         <br>
 
-        <p>Bitte geben Sie ihre Kontaktdaten ein</p>
+        <p>Bitte geben Sie ihre Kontaktdaten ein / fabian und so</p>
         <br>
 
         <label for="vorname">Vorname:</label>
